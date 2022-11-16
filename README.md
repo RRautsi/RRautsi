@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey, I'm Joonas Rautio!👋
+
+I am currently studying web development in a Full Stack -developer program located in Oulu, Finland.
+
+I have experience in: Python, JavaScript, React, NodeJS, Express, SQL, MongoDB.
+
+As a hobby I have a homelab and I like to tinker with networking and self hosting services. My previous degree is from computer networking.
+
+### What I'm focusing on?
+
+At the moment I am improving my skills with React and backend technologies such as Express, Groovy, SQL, MongoDB.
+
+### Where to find me?
+
+LinkedIn: www.linkedin.com/in/joonas-rautio
+
+Contact me: joonas-rautio@hotmail.com
 
 <!--
 **RRautsi/RRautsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
