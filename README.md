@@ -1,4 +1,4 @@
-### Hey, I'm Joonas! 👋
+## Hey, I'm Joonas! 👋
 
 I'm currently studying web development in Full Stack -developer program located in Oulu, Finland.
 
