@@ -2,13 +2,12 @@
 
 I'm currently studying web development in Full Stack -developer program located in Oulu, Finland.
 
-I have experience in: Python, JavaScript, React, NodeJS, Express, SQL, MongoDB.
-
+I have experience in: TypeScript, React, Groovy, Java, C#, .NET, Express, SQL.
 As a hobby I have a homelab and I like to tinker with networking and self hosting services. My previous degree is from computer networking.
 
 ### What I'm focusing on?
 
-At the moment I am improving my skills with React and backend technologies such as Express, Groovy, SQL, MongoDB.
+At the moment I am improving my skills with React and backend technologies such as Grails, ASP.NET Core, SQL
 
 ### Where to find me?
 
